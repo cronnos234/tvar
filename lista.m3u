@@ -5,3 +5,6 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.
 
 #EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-name="Telefe" tvg-logo="https://archive.org/download/logos_20260322/telefe.png" group-title="Noticias",Telefe
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe 2" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", Telefe
+http://107.152.39.199:8030/hls/canal23.m3u8
